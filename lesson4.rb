@@ -1,0 +1,2 @@
+name ="あづちゆかこ"
+puts name
